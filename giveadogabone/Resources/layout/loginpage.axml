@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f4497f"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="WELCOME"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/welcome" />
+    <TextView
+        android:text="you aint got no bones"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bone" />
+    <Button
+        android:text="GIVEADOGABONE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/giveBone" />
+    <Button
+        android:text="Log out"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/logout" />
+</LinearLayout>

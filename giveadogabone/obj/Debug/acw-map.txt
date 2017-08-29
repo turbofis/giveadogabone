@@ -1,0 +1,8 @@
+giveadogabone.LoginActivity, giveadogabone;md5b7ab728108402b04606b9ce54e8e1d53.LoginActivity
+giveadogabone.LoginActivity, giveadogabone, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b7ab728108402b04606b9ce54e8e1d53.LoginActivity
+giveadogabone.LoginActivity;md5b7ab728108402b04606b9ce54e8e1d53.LoginActivity
+giveadogabone.LoginActivity;md5b7ab728108402b04606b9ce54e8e1d53.LoginActivity
+giveadogabone.MainActivity, giveadogabone;md5b7ab728108402b04606b9ce54e8e1d53.MainActivity
+giveadogabone.MainActivity, giveadogabone, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b7ab728108402b04606b9ce54e8e1d53.MainActivity
+giveadogabone.MainActivity;md5b7ab728108402b04606b9ce54e8e1d53.MainActivity
+giveadogabone.MainActivity;md5b7ab728108402b04606b9ce54e8e1d53.MainActivity
